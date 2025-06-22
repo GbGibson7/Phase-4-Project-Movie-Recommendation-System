@@ -42,4 +42,9 @@ Key Findings (RMSE):
 - User-based Collaborative Filtering: Achieved an RMSE of approximately 0.9690.
 - K-Nearest Neighbors Regressor (Tuned): Demonstrated strong performance with an RMSE of approximately 0.9809 (clipped).
 - Linear Regression: Served as a baseline with an RMSE of approximately 1.0466 (clipped).
-The lower RMSE values indicate better predictive accuracy, with User-based CF and tuned KNN generally outperforming simple Linear Regression for this dataset.
+The lower RMSE values indicated better predictive accuracy, with User-based CF and tuned KNN generally outperforming simple Linear Regression for this dataset.
+
+### Contributors:
+- Ngetich Gibson ---> https://github.com/GbGibson7
+- Rose Gitau ---> https://github.com/RGitau-coder
+- Guled Adam ---> https://https://github.com/Ledgu
