@@ -43,3 +43,8 @@ Key Findings (RMSE):
 - K-Nearest Neighbors Regressor (Tuned): Demonstrated strong performance with an RMSE of approximately 0.9809 (clipped).
 - Linear Regression: Served as a baseline with an RMSE of approximately 1.0466 (clipped).
 The lower RMSE values indicate better predictive accuracy, with User-based CF and tuned KNN generally outperforming simple Linear Regression for this dataset.
+
+## Contributors
+Ngetich Gibson
+Rose Gitau
+Guled Adam
