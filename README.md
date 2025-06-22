@@ -5,7 +5,7 @@ This project delves into the classic MovieLens dataset to build a robust movie r
 The core objective is to develop a system that provides users with tailored movie recommendations based on their past ratings. Imagine this system enhancing a streaming platform's user experience, increasing engagement by surfacing films users are most likely to enjoy.
 
 ## 2. Data Understanding
-Initial exploration of the MovieLens "small" dataset (movies.csv, ratings.csv, links.csv, tags.csv) revealed key characteristics:
+The data source is https://grouplens.org/datasets/movielens/latest/ , The Initial exploration of the MovieLens "small" dataset (movies.csv, ratings.csv, links.csv, tags.csv) revealed key characteristics:
 
 - Movies: Over 9,700 titles with genres.
 - Ratings: Over 100,000 ratings from 610 users, showcasing a clear positive bias towards higher scores (3.0, 4.0, 5.0 are most common).
