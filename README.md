@@ -45,6 +45,6 @@ Key Findings (RMSE):
 The lower RMSE values indicate better predictive accuracy, with User-based CF and tuned KNN generally outperforming simple Linear Regression for this dataset.
 
 ## Contributors
-Ngetich Gibson
-Rose Gitau
-Guled Adam
+- Ngetich Gibson
+- Rose Gitau
+- Guled Adam
